@@ -3,7 +3,7 @@ sentiment analysis using twitter data
 i have created ml modal to analysis the setiment of human 
 using twitter data 
 data colleted from kaggle
-uploded by api token 
+uploded by api token in my project
 used multiple library
 then data preprocessing
 splitting data to traning and testing data 
